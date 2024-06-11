@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(SignUp));
             securityNo = new Label();
             textPassword = new TextBox();
             textPasswordAgain = new TextBox();
@@ -46,8 +47,7 @@
             // securityNo
             // 
             securityNo.AutoSize = true;
-            securityNo.BackColor = Color.Transparent;
-            securityNo.Location = new Point(328, 87);
+            securityNo.Location = new Point(553, 66);
             securityNo.Name = "securityNo";
             securityNo.Size = new Size(209, 34);
             securityNo.TabIndex = 0;
@@ -56,7 +56,7 @@
             // 
             // textPassword
             // 
-            textPassword.Location = new Point(290, 237);
+            textPassword.Location = new Point(506, 290);
             textPassword.Name = "textPassword";
             textPassword.Size = new Size(283, 42);
             textPassword.TabIndex = 1;
@@ -65,7 +65,7 @@
             // 
             // textPasswordAgain
             // 
-            textPasswordAgain.Location = new Point(290, 339);
+            textPasswordAgain.Location = new Point(506, 383);
             textPasswordAgain.Name = "textPasswordAgain";
             textPasswordAgain.Size = new Size(283, 42);
             textPasswordAgain.TabIndex = 2;
@@ -74,17 +74,16 @@
             // 
             // textNameSurname
             // 
-            textNameSurname.Location = new Point(290, 451);
+            textNameSurname.Location = new Point(450, 198);
             textNameSurname.Name = "textNameSurname";
-            textNameSurname.Size = new Size(283, 42);
+            textNameSurname.Size = new Size(396, 42);
             textNameSurname.TabIndex = 3;
             textNameSurname.TextChanged += textNameSurname_TextChanged;
             // 
             // password
             // 
             password.AutoSize = true;
-            password.BackColor = Color.Transparent;
-            password.Location = new Point(388, 200);
+            password.Location = new Point(623, 253);
             password.Name = "password";
             password.Size = new Size(72, 34);
             password.TabIndex = 5;
@@ -94,8 +93,7 @@
             // passwordAgain
             // 
             passwordAgain.AutoSize = true;
-            passwordAgain.BackColor = Color.Transparent;
-            passwordAgain.Location = new Point(353, 294);
+            passwordAgain.Location = new Point(577, 346);
             passwordAgain.Name = "passwordAgain";
             passwordAgain.Size = new Size(157, 34);
             passwordAgain.TabIndex = 6;
@@ -105,8 +103,7 @@
             // nameSurname
             // 
             nameSurname.AutoSize = true;
-            nameSurname.BackColor = Color.Transparent;
-            nameSurname.Location = new Point(353, 403);
+            nameSurname.Location = new Point(577, 161);
             nameSurname.Name = "nameSurname";
             nameSurname.Size = new Size(167, 34);
             nameSurname.TabIndex = 7;
@@ -115,7 +112,7 @@
             // 
             // textSecurity
             // 
-            textSecurity.Location = new Point(236, 140);
+            textSecurity.Location = new Point(450, 103);
             textSecurity.Name = "textSecurity";
             textSecurity.Size = new Size(396, 42);
             textSecurity.TabIndex = 8;
@@ -123,7 +120,7 @@
             // 
             // sign
             // 
-            sign.Location = new Point(365, 673);
+            sign.Location = new Point(597, 566);
             sign.Name = "sign";
             sign.Size = new Size(121, 45);
             sign.TabIndex = 9;
@@ -133,26 +130,31 @@
             // 
             // dateTimePicker1
             // 
-            dateTimePicker1.Location = new Point(273, 578);
+            dateTimePicker1.CalendarFont = new Font("Times New Roman", 22.2F, FontStyle.Regular, GraphicsUnit.Point, 162);
+            dateTimePicker1.Format = DateTimePickerFormat.Short;
+            dateTimePicker1.Location = new Point(553, 481);
+            dateTimePicker1.MaxDate = new DateTime(2210, 12, 31, 0, 0, 0, 0);
+            dateTimePicker1.MinDate = new DateTime(1799, 12, 30, 0, 0, 0, 0);
             dateTimePicker1.Name = "dateTimePicker1";
-            dateTimePicker1.Size = new Size(359, 42);
-            dateTimePicker1.TabIndex = 10;
+            dateTimePicker1.RightToLeft = RightToLeft.No;
+            dateTimePicker1.Size = new Size(191, 42);
+            dateTimePicker1.TabIndex = 15;
             dateTimePicker1.ValueChanged += dateTimePicker1_ValueChanged;
             // 
             // birthDate
             // 
             birthDate.AutoSize = true;
-            birthDate.BackColor = Color.Transparent;
-            birthDate.Location = new Point(340, 520);
+            birthDate.Location = new Point(564, 444);
             birthDate.Name = "birthDate";
             birthDate.Size = new Size(180, 34);
             birthDate.TabIndex = 11;
             birthDate.Text = "Doğum Tarihi";
+            birthDate.Click += birthDate_Click;
             // 
             // checkBox1
             // 
             checkBox1.AutoSize = true;
-            checkBox1.Location = new Point(544, 250);
+            checkBox1.Location = new Point(760, 303);
             checkBox1.Name = "checkBox1";
             checkBox1.Size = new Size(18, 17);
             checkBox1.TabIndex = 12;
@@ -162,7 +164,7 @@
             // checkBox2
             // 
             checkBox2.AutoSize = true;
-            checkBox2.Location = new Point(544, 352);
+            checkBox2.Location = new Point(760, 396);
             checkBox2.Name = "checkBox2";
             checkBox2.Size = new Size(18, 17);
             checkBox2.TabIndex = 13;
@@ -171,12 +173,10 @@
             // 
             // SignUp
             // 
-            MinimizeBox = false;
-            MaximizeBox = false;
             AutoScaleDimensions = new SizeF(17F, 34F);
             AutoScaleMode = AutoScaleMode.Font;
-            BackgroundImage = Properties.Resources._3274408;
-            ClientSize = new Size(887, 761);
+            BackgroundImage = Properties.Resources.Interface;
+            ClientSize = new Size(1303, 692);
             Controls.Add(checkBox2);
             Controls.Add(checkBox1);
             Controls.Add(birthDate);
@@ -191,9 +191,10 @@
             Controls.Add(textPassword);
             Controls.Add(securityNo);
             Font = new Font("Times New Roman", 18F, FontStyle.Regular, GraphicsUnit.Point, 162);
+            Icon = (Icon)resources.GetObject("$this.Icon");
             Margin = new Padding(6, 5, 6, 5);
             Name = "SignUp";
-            Text = "SignUp";
+            Text = " Kaydol";
             Load += SignUp_Load;
             ResumeLayout(false);
             PerformLayout();

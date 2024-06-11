@@ -118,37 +118,52 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="3274408" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\3274408.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="global-business-internet-network-connection-iot-internet-things-business-intelligence-concept-busines-global-network-futuristic-technology-background-ai-generative" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\global-business-internet-network-connection-iot-internet-things-business-intelligence-concept-busines-global-network-futuristic-technology-background-ai-generative.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="customer servic 59da589f-8115-4670-87d4-ace092245bc0" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\customer servic 59da589f-8115-4670-87d4-ace092245bc0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="istockphoto-1203763961-612x6121" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\istockphoto-1203763961-612x6121.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Gazi2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Gazi2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="istockphoto-1203763961-612x612" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\istockphoto-1203763961-612x612.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="pngtree-3d-visualization-of-bank-safe-room-image_3844534" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\pngtree-3d-visualization-of-bank-safe-room-image_3844534.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="a background pi 87fed2eb-52c1-4f04-b2a0-90c08f5ff492" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\a background pi 87fed2eb-52c1-4f04-b2a0-90c08f5ff492.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Ekran görüntüsü 2024-05-22 095406" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Ekran görüntüsü 2024-05-22 095406.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="customer servic 59da589f-8115-4670-87d4-ace092245bc0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\customer servic 59da589f-8115-4670-87d4-ace092245bc0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="openart-image_8zCzVZWH_1716647754494_raw" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\openart-image_8zCzVZWH_1716647754494_raw.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="istockphoto-957984226-612x612" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\istockphoto-957984226-612x612.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Interface" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Interface.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="openart-image_8zCzVZWH_1716647754494_raw1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\openart-image_8zCzVZWH_1716647754494_raw1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="3409297" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\3409297.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="pngtree-3d-visualization-of-bank-safe-room-image_3844534" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pngtree-3d-visualization-of-bank-safe-room-image_3844534.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="istockphoto-1203763961-612x6121" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\istockphoto-1203763961-612x6121.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="istockphoto-957984226-612x612" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\istockphoto-957984226-612x612.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="money-transfer_9039460" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\money-transfer_9039460.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ekran görüntüsü 2024-05-22 095406" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Ekran görüntüsü 2024-05-22 095406.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Call Centre" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Call Centre.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LoginScreen" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\LoginScreen.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="openart-image_8zCzVZWH_1716647754494_raw" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\openart-image_8zCzVZWH_1716647754494_raw.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="9191371" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\9191371.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

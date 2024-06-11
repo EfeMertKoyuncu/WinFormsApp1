@@ -63,19 +63,9 @@ namespace WinFormsApp1.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap _3274408 {
+        internal static System.Drawing.Bitmap _9191371 {
             get {
-                object obj = ResourceManager.GetObject("3274408", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap _3409297 {
-            get {
-                object obj = ResourceManager.GetObject("3409297", resourceCulture);
+                object obj = ResourceManager.GetObject("9191371", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -86,6 +76,16 @@ namespace WinFormsApp1.Properties {
         internal static System.Drawing.Bitmap a_background_pi_87fed2eb_52c1_4f04_b2a0_90c08f5ff492 {
             get {
                 object obj = ResourceManager.GetObject("a background pi 87fed2eb-52c1-4f04-b2a0-90c08f5ff492", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Call_Centre {
+            get {
+                object obj = ResourceManager.GetObject("Call Centre", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -106,6 +106,38 @@ namespace WinFormsApp1.Properties {
         internal static System.Drawing.Bitmap Ekran_görüntüsü_2024_05_22_095406 {
             get {
                 object obj = ResourceManager.GetObject("Ekran görüntüsü 2024-05-22 095406", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Gazi2 {
+            get {
+                object obj = ResourceManager.GetObject("Gazi2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap global_business_internet_network_connection_iot_internet_things_business_intelligence_concept_busines_global_network_futuristic_technology_background_ai_generative {
+            get {
+                object obj = ResourceManager.GetObject("global-business-internet-network-connection-iot-internet-things-business-intellig" +
+                        "ence-concept-busines-global-network-futuristic-technology-background-ai-generati" +
+                        "ve", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Interface {
+            get {
+                object obj = ResourceManager.GetObject("Interface", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -136,6 +168,26 @@ namespace WinFormsApp1.Properties {
         internal static System.Drawing.Bitmap istockphoto_957984226_612x612 {
             get {
                 object obj = ResourceManager.GetObject("istockphoto-957984226-612x612", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap LoginScreen {
+            get {
+                object obj = ResourceManager.GetObject("LoginScreen", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap money_transfer_9039460 {
+            get {
+                object obj = ResourceManager.GetObject("money-transfer_9039460", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
